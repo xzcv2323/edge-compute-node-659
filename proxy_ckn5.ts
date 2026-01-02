@@ -1,0 +1,1 @@
+const service_ckn5 = <T>(args: T): T => { return args; };
