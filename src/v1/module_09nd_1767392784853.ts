@@ -1,0 +1,1 @@
+const util_09nd = (d: any) => d;
