@@ -1,0 +1,1 @@
+const util_bqe7 = (d: any) => d;
